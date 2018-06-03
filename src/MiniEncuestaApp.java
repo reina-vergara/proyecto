@@ -177,7 +177,7 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
         //Hacemos igual con los checkboxes
         JCheckBox[] ckbs={ckbProgramacion, ckbDiseno, ckbAdministracion};
          
-        informacion+=", \ntus especialidades son ";
+        informacion+=", \ntus Capacidades son ";
          
         for(int i=0;i<ckbs.length;i++){
              
@@ -249,5 +249,6 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
     private javax.swing.JRadioButton rdbMac;
     private javax.swing.JRadioButton rdbWindows;
     private javax.swing.JSlider sldHoras;
-    // End of variables declaration                   
+    // End of variables declaration     
+    //cambiar color
 }
