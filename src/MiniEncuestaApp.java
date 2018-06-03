@@ -177,7 +177,7 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
         //Hacemos igual con los checkboxes
         JCheckBox[] ckbs={ckbProgramacion, ckbDiseno, ckbAdministracion};
          
-        informacion+=", \ntus Capacidades son ";
+        informacion+=", \nTus Capacidades son ";
          
         for(int i=0;i<ckbs.length;i++){
              
@@ -187,9 +187,9 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
              
         }
          
-        informacion+=" \ny el numero de horas dedicadas al ordenador son "+sldHoras.getValue();
+        informacion+=" \nY el numero de horas que dedicadas al ordenador son "+sldHoras.getValue();
          
-        JOptionPane.showMessageDialog(this, informacion, "Muestra de datos", JOptionPane.INFORMATION_MESSAGE);
+        JOptionPane.showMessageDialog(this, informacion, "Muestra de Datos", JOptionPane.INFORMATION_MESSAGE);
          
     }                                          
  
