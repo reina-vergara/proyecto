@@ -250,5 +250,5 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
     private javax.swing.JRadioButton rdbWindows;
     private javax.swing.JSlider sldHoras;
     // End of variables declaration     
-    //cambiar color
+    
 }
