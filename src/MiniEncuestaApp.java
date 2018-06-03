@@ -193,7 +193,11 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
          
     }                                          
  
-                                       
+    private void sldHorasStateChanged(javax.swing.event.ChangeEvent evt) {                                      
+         
+        lblHoras.setText(String.valueOf(sldHoras.getValue()));
+         
+    }                                     
  
     /**
      * @param args the command line arguments
