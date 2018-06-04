@@ -157,7 +157,6 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
  
         pack();
     }// </editor-fold>                        
- 
     private void btnGenerarActionPerformed(java.awt.event.ActionEvent evt) {                                           
         
         String informacion="Tu sistema operativo preferido es!!! ";
