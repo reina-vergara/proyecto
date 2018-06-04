@@ -235,20 +235,4 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
         );
     }
  
-    // Variables declaration - do not modify                     
-    private javax.swing.JButton btnGenerar;
-    private javax.swing.JCheckBox ckbAdministracion;
-    private javax.swing.JCheckBox ckbDiseno;
-    private javax.swing.JCheckBox ckbProgramacion;
-    private javax.swing.JLabel jLabel1;
-    private javax.swing.JLabel jLabel2;
-    private javax.swing.JLabel jLabel3;
-    private javax.swing.JSeparator jSeparator1;
-    private javax.swing.JSeparator jSeparator2;
-    private javax.swing.JLabel lblHoras;
-    private javax.swing.JRadioButton rdbLinux;
-    private javax.swing.JRadioButton rdbMac;
-    private javax.swing.JRadioButton rdbWindows;
-    private javax.swing.JSlider sldHoras;
-    // End of variables declaration     
 }
