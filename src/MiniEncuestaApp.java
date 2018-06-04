@@ -230,7 +230,9 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
             public void run() {
                 new MiniEncuestaApp().setVisible(true);
             }
-        });
+        }
+        
+        );
     }
  
     // Variables declaration - do not modify                     
