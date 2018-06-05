@@ -16,9 +16,7 @@ public class MiniEncuestaApp extends javax.swing.JFrame {
          
         //Añadimos los botones radiobutton
         //Si no lo hacemos, los botones seran independientes
-        btg.add(rdbWindows);
-        btg.add(rdbLinux);
-        btg.add(rdbMac);
+        
          
     }
  
