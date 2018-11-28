@@ -1,0 +1,2 @@
+git remote add origin https://github.com/reina-vergara/proyecto.git
+git push -u origin master
